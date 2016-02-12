@@ -1,1 +1,1 @@
-# learn-to-git
+# cheese-is-awesome
