@@ -1,1 +1,1 @@
-# learn-to-git
+# Stephan is wrong, cheese is terrible
