@@ -1,2 +1,2 @@
 def cheese(n):
-	return n
+	return n**2
